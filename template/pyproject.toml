@@ -1,0 +1,24 @@
+[project]
+name = "RemoteSensingTemplate"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "gespel", email = "heimbrodt@uni-potsdam.de" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "gdal>=3.13.3",
+    "h5py>=3.16.0",
+    "matplotlib>=3.11.2",
+    "ogr>=0.63.0",
+    "osr>=0.0.1",
+    "statsmodels>=0.15.0",
+]
+
+[project.scripts]
+bla = "rss:main"
+
+[build-system]
+requires = ["uv_build>=0.13.0,<0.14.0"]
+build-backend = "uv_build"
