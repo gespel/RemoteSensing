@@ -1,0 +1,17 @@
+ENVI
+description = {
+  ENVI File, Created [Thu Jan 11 14:23:29 2018]}
+samples = 1201
+lines   = 1201
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 2
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+map info = {Geographic Lat/Lon, 1.5000, 1.5000, 13.00000000, 53.00000000, 8.3333333333e-04, 8.3333333333e-04, WGS-84, units=Degrees}
+coordinate system string = {GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]}
+wavelength units = Unknown
+band names = {
+ GLSDEM Elevation}
