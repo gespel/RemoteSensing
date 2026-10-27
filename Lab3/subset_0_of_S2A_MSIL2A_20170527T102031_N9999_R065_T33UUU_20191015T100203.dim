@@ -29,7 +29,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -57,7 +57,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -85,7 +85,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -113,7 +113,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -141,7 +141,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -169,7 +169,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -197,7 +197,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -225,7 +225,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -253,7 +253,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -281,7 +281,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -309,7 +309,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -337,7 +337,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -365,7 +365,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -393,7 +393,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -421,7 +421,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -449,7 +449,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -477,7 +477,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -505,7 +505,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -533,7 +533,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -561,7 +561,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -589,7 +589,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -617,7 +617,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -645,7 +645,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -673,7 +673,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -701,7 +701,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -729,7 +729,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -757,7 +757,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -785,7 +785,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -813,7 +813,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -841,7 +841,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -869,7 +869,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -897,7 +897,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -925,7 +925,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -953,7 +953,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -981,7 +981,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -1009,7 +1009,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -1037,7 +1037,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -1065,7 +1065,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -1093,7 +1093,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -1121,7 +1121,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -1149,7 +1149,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -1177,7 +1177,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -1205,7 +1205,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -1233,7 +1233,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -1261,7 +1261,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -1289,7 +1289,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -1317,7 +1317,7 @@
                  AXIS["Geodetic longitude", EAST], 
                  AXIS["Geodetic latitude", NORTH], 
                  AUTHORITY["EPSG","4326"]], 
-               PROJECTION["Transverse_Mercator", AUTHORITY["EPSG","9807"]], 
+               PROJECTION["Transverse_Mercator"], 
                PARAMETER["central_meridian", 15.0], 
                PARAMETER["latitude_of_origin", 0.0], 
                PARAMETER["scale_factor", 0.9996], 
@@ -1331,6 +1331,34 @@
     </Coordinate_Reference_System>
     <Geoposition>
         <BAND_INDEX>46</BAND_INDEX>
+        <IMAGE_TO_MODEL_TRANSFORM>10.0,0.0,0.0,-10.0,327250.0,5862640.0</IMAGE_TO_MODEL_TRANSFORM>
+    </Geoposition>
+    <Coordinate_Reference_System>
+        <WKT>
+             PROJCS["WGS 84 / UTM zone 33N", 
+               GEOGCS["WGS 84", 
+                 DATUM["World Geodetic System 1984", 
+                   SPHEROID["WGS 84", 6378137.0, 298.257223563, AUTHORITY["EPSG","7030"]], 
+                   AUTHORITY["EPSG","6326"]], 
+                 PRIMEM["Greenwich", 0.0, AUTHORITY["EPSG","8901"]], 
+                 UNIT["degree", 0.017453292519943295], 
+                 AXIS["Geodetic longitude", EAST], 
+                 AXIS["Geodetic latitude", NORTH], 
+                 AUTHORITY["EPSG","4326"]], 
+               PROJECTION["Transverse_Mercator"], 
+               PARAMETER["central_meridian", 15.0], 
+               PARAMETER["latitude_of_origin", 0.0], 
+               PARAMETER["scale_factor", 0.9996], 
+               PARAMETER["false_easting", 500000.0], 
+               PARAMETER["false_northing", 0.0], 
+               UNIT["m", 1.0], 
+               AXIS["Easting", EAST], 
+               AXIS["Northing", NORTH], 
+               AUTHORITY["EPSG","32633"]]
+        </WKT>
+    </Coordinate_Reference_System>
+    <Geoposition>
+        <BAND_INDEX>47</BAND_INDEX>
         <IMAGE_TO_MODEL_TRANSFORM>10.0,0.0,0.0,-10.0,327250.0,5862640.0</IMAGE_TO_MODEL_TRANSFORM>
     </Geoposition>
     <Index_Coding name="quality_scene_classification">
@@ -1460,7 +1488,7 @@
     <Raster_Dimensions>
         <NCOLS>5530</NCOLS>
         <NROWS>3500</NROWS>
-        <NBANDS>47</NBANDS>
+        <NBANDS>48</NBANDS>
     </Raster_Dimensions>
     <Data_Access>
         <DATA_FILE_FORMAT>ENVI</DATA_FILE_FORMAT>
@@ -1654,6 +1682,10 @@
             <DATA_FILE_PATH href="subset_0_of_S2A_MSIL2A_20170527T102031_N9999_R065_T33UUU_20191015T100203.data/ndvi.hdr" />
             <BAND_INDEX>46</BAND_INDEX>
         </Data_File>
+        <Data_File>
+            <DATA_FILE_PATH href="subset_0_of_S2A_MSIL2A_20170527T102031_N9999_R065_T33UUU_20191015T100203.data/ndwi.hdr" />
+            <BAND_INDEX>47</BAND_INDEX>
+        </Data_File>
         <Tie_Point_Grid_File>
             <TIE_POINT_GRID_FILE_PATH href="subset_0_of_S2A_MSIL2A_20170527T102031_N9999_R065_T33UUU_20191015T100203.data/tie_point_grids/tcwv.hdr" />
             <TIE_POINT_GRID_INDEX>0</TIE_POINT_GRID_INDEX>
@@ -1773,6 +1805,30 @@
             <HISTOGRAM_MATCHING>None</HISTOGRAM_MATCHING>
         </Band_Statistics>
         <Band_Statistics>
+            <BAND_INDEX>3</BAND_INDEX>
+            <STX_MIN>0.002899999963119626</STX_MIN>
+            <STX_MAX>0.5576000213623047</STX_MAX>
+            <STX_MEAN>0.1000790068712962</STX_MEAN>
+            <STX_STD_DEV>0.043537441528973486</STX_STD_DEV>
+            <STX_RES_LEVEL>4</STX_RES_LEVEL>
+            <HISTOGRAM>2,4,5,2,8,13,3,10,5,7,8,5,5,5,5,4,2,3,4,4,4,5,2,5,4,6,2,1,3,9,4,4,5,5,11,18,17,23,16,21,39,65,62,110,162,219,237,312,223,307,323,313,296,278,240,248,233,225,236,225,204,218,202,200,196,217,164,208,168,193,239,231,210,210,207,212,216,225,199,228,220,241,233,216,218,241,223,237,254,220,192,221,213,203,217,201,186,199,191,188,173,180,186,185,187,191,175,175,141,166,150,159,143,147,95,128,132,108,110,100,89,107,83,72,81,96,69,69,76,73,53,61,47,53,53,57,34,42,37,46,41,34,37,43,31,22,34,30,33,18,17,34,26,31,19,25,11,21,18,20,21,19,13,16,14,17,12,16,11,17,11,14,18,8,10,21,12,11,12,19,12,9,13,5,17,13,12,12,9,18,8,18,12,9,11,10,10,12,13,17,11,10,11,17,13,10,12,10,12,14,12,10,8,13,9,5,11,9,17,10,11,11,16,9,13,10,11,7,12,11,11,9,7,8,7,8,4,2,9,4,5,9,7,3,7,7,8,3,1,7,3,5,3,0,5,5,4,0,0,1,3,0,3,1,2,0,2,0,0,1,1,0,2,1,0,0,1,2,1,1,1,0,2,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,1,1,1,0,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1</HISTOGRAM>
+            <NUM_COLORS>256</NUM_COLORS>
+            <Color_Palette_Point>
+                <SAMPLE>0.04081894673845454</SAMPLE>
+                <COLOR red="0" green="0" blue="0" alpha="255" />
+            </Color_Palette_Point>
+            <Color_Palette_Point>
+                <SAMPLE>0.12044873496665787</SAMPLE>
+                <COLOR red="128" green="128" blue="128" alpha="255" />
+            </Color_Palette_Point>
+            <Color_Palette_Point>
+                <SAMPLE>0.2000785231948612</SAMPLE>
+                <COLOR red="255" green="255" blue="255" alpha="255" />
+            </Color_Palette_Point>
+            <NO_DATA_COLOR red="0" green="0" blue="0" alpha="0" />
+            <HISTOGRAM_MATCHING>None</HISTOGRAM_MATCHING>
+        </Band_Statistics>
+        <Band_Statistics>
             <BAND_INDEX>10</BAND_INDEX>
             <NUM_COLORS>256</NUM_COLORS>
             <Color_Palette_Point>
@@ -1874,20 +1930,44 @@
             <NO_DATA_COLOR red="0" green="0" blue="0" alpha="0" />
             <HISTOGRAM_MATCHING>None</HISTOGRAM_MATCHING>
         </Band_Statistics>
+        <Band_Statistics>
+            <BAND_INDEX>47</BAND_INDEX>
+            <STX_MIN>0.0</STX_MIN>
+            <STX_MAX>4.9E-324</STX_MAX>
+            <STX_MEAN>NaN</STX_MEAN>
+            <STX_STD_DEV>NaN</STX_STD_DEV>
+            <STX_RES_LEVEL>5</STX_RES_LEVEL>
+            <HISTOGRAM>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</HISTOGRAM>
+            <NUM_COLORS>256</NUM_COLORS>
+            <Color_Palette_Point>
+                <SAMPLE>0.0</SAMPLE>
+                <COLOR red="0" green="0" blue="0" alpha="255" />
+            </Color_Palette_Point>
+            <Color_Palette_Point>
+                <SAMPLE>0.0</SAMPLE>
+                <COLOR red="128" green="128" blue="128" alpha="255" />
+            </Color_Palette_Point>
+            <Color_Palette_Point>
+                <SAMPLE>4.9E-324</SAMPLE>
+                <COLOR red="255" green="255" blue="255" alpha="255" />
+            </Color_Palette_Point>
+            <NO_DATA_COLOR red="0" green="0" blue="0" alpha="0" />
+            <HISTOGRAM_MATCHING>None</HISTOGRAM_MATCHING>
+        </Band_Statistics>
     </Image_Display>
     <Masks>
-        <Mask type="Maths"><NAME value="scl_nodata" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="No data" /><COLOR red="0" green="0" blue="0" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="10.0,0.0,0.0,-10.0,327250.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 0" /></Mask>
-        <Mask type="Maths"><NAME value="scl_saturated_defective" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="Saturated or defective" /><COLOR red="255" green="0" blue="0" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="10.0,0.0,0.0,-10.0,327250.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 1" /></Mask>
-        <Mask type="Maths"><NAME value="scl_topographic_and_casted_shadows" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="topographic and casted shadows" /><COLOR red="46" green="46" blue="46" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="10.0,0.0,0.0,-10.0,327250.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 2" /></Mask>
-        <Mask type="Maths"><NAME value="scl_cloud_shadow" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="Cloud shadow" /><COLOR red="100" green="50" blue="0" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="10.0,0.0,0.0,-10.0,327250.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 3" /></Mask>
-        <Mask type="Maths"><NAME value="scl_vegetation" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="Vegetation" /><COLOR red="0" green="128" blue="0" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="10.0,0.0,0.0,-10.0,327250.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 4" /></Mask>
-        <Mask type="Maths"><NAME value="scl_not_vegetated" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="Not vegetated" /><COLOR red="255" green="230" blue="90" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="10.0,0.0,0.0,-10.0,327250.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 5" /></Mask>
-        <Mask type="Maths"><NAME value="scl_water" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="Water" /><COLOR red="0" green="0" blue="255" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="10.0,0.0,0.0,-10.0,327250.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 6" /></Mask>
-        <Mask type="Maths"><NAME value="scl_unclassified" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="Unclassified" /><COLOR red="129" green="129" blue="129" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="10.0,0.0,0.0,-10.0,327250.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 7" /></Mask>
-        <Mask type="Maths"><NAME value="scl_cloud_medium_proba" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="Cloud (medium probability)" /><COLOR red="193" green="193" blue="193" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="10.0,0.0,0.0,-10.0,327250.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 8" /></Mask>
-        <Mask type="Maths"><NAME value="scl_cloud_high_proba" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="Cloud (high probability)" /><COLOR red="255" green="255" blue="255" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="10.0,0.0,0.0,-10.0,327250.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 9" /></Mask>
-        <Mask type="Maths"><NAME value="scl_thin_cirrus" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="Thin cirrus" /><COLOR red="100" green="200" blue="255" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="10.0,0.0,0.0,-10.0,327250.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 10" /></Mask>
-        <Mask type="Maths"><NAME value="scl_snow_ice" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="Snow or Ice" /><COLOR red="255" green="150" blue="255" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="10.0,0.0,0.0,-10.0,327250.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 11" /></Mask>
+        <Mask type="Maths"><NAME value="scl_nodata" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="No data" /><COLOR red="0" green="0" blue="0" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="20.0,0.0,0.0,-20.0,327240.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 0" /></Mask>
+        <Mask type="Maths"><NAME value="scl_saturated_defective" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="Saturated or defective" /><COLOR red="255" green="0" blue="0" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="20.0,0.0,0.0,-20.0,327240.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 1" /></Mask>
+        <Mask type="Maths"><NAME value="scl_topographic_and_casted_shadows" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="topographic and casted shadows" /><COLOR red="46" green="46" blue="46" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="20.0,0.0,0.0,-20.0,327240.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 2" /></Mask>
+        <Mask type="Maths"><NAME value="scl_cloud_shadow" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="Cloud shadow" /><COLOR red="100" green="50" blue="0" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="20.0,0.0,0.0,-20.0,327240.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 3" /></Mask>
+        <Mask type="Maths"><NAME value="scl_vegetation" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="Vegetation" /><COLOR red="0" green="128" blue="0" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="20.0,0.0,0.0,-20.0,327240.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 4" /></Mask>
+        <Mask type="Maths"><NAME value="scl_not_vegetated" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="Not vegetated" /><COLOR red="255" green="230" blue="90" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="20.0,0.0,0.0,-20.0,327240.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 5" /></Mask>
+        <Mask type="Maths"><NAME value="scl_water" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="Water" /><COLOR red="0" green="0" blue="255" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="20.0,0.0,0.0,-20.0,327240.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 6" /></Mask>
+        <Mask type="Maths"><NAME value="scl_unclassified" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="Unclassified" /><COLOR red="129" green="129" blue="129" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="20.0,0.0,0.0,-20.0,327240.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 7" /></Mask>
+        <Mask type="Maths"><NAME value="scl_cloud_medium_proba" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="Cloud (medium probability)" /><COLOR red="193" green="193" blue="193" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="20.0,0.0,0.0,-20.0,327240.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 8" /></Mask>
+        <Mask type="Maths"><NAME value="scl_cloud_high_proba" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="Cloud (high probability)" /><COLOR red="255" green="255" blue="255" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="20.0,0.0,0.0,-20.0,327240.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 9" /></Mask>
+        <Mask type="Maths"><NAME value="scl_thin_cirrus" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="Thin cirrus" /><COLOR red="100" green="200" blue="255" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="20.0,0.0,0.0,-20.0,327240.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 10" /></Mask>
+        <Mask type="Maths"><NAME value="scl_snow_ice" /><MASK_RASTER_WIDTH value="2766" /><MASK_RASTER_HEIGHT value="1750" /><DESCRIPTION value="Snow or Ice" /><COLOR red="255" green="150" blue="255" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="20.0,0.0,0.0,-20.0,327240.0,5862640.0" /><EXPRESSION value="quality_scene_classification.raw == 11" /></Mask>
         <Mask type="Geometry"><NAME value="detector_footprint-B02-05" /><MASK_RASTER_WIDTH value="5530" /><MASK_RASTER_HEIGHT value="3500" /><DESCRIPTION value="Detector footprint mask - B2" /><COLOR red="255" green="0" blue="0" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="10.0,0.0,0.0,-10.0,327250.0,5862640.0" /><VECTOR_DATA_NODE value="detector_footprint-B02-05" /></Mask>
         <Mask type="Geometry"><NAME value="detector_footprint-B02-06" /><MASK_RASTER_WIDTH value="5530" /><MASK_RASTER_HEIGHT value="3500" /><DESCRIPTION value="Detector footprint mask - B2" /><COLOR red="178" green="0" blue="0" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="10.0,0.0,0.0,-10.0,327250.0,5862640.0" /><VECTOR_DATA_NODE value="detector_footprint-B02-06" /></Mask>
         <Mask type="Geometry"><NAME value="detector_footprint-B02-07" /><MASK_RASTER_WIDTH value="5530" /><MASK_RASTER_HEIGHT value="3500" /><DESCRIPTION value="Detector footprint mask - B2" /><COLOR red="124" green="0" blue="0" alpha="255" /><TRANSPARENCY value="0.5" /><IMAGE_TO_MODEL_TRANSFORM value="10.0,0.0,0.0,-10.0,327250.0,5862640.0" /><VECTOR_DATA_NODE value="detector_footprint-B02-07" /></Mask>
@@ -2972,6 +3052,24 @@
             <BAND_INDEX>46</BAND_INDEX>
             <BAND_DESCRIPTION />
             <BAND_NAME>ndvi</BAND_NAME>
+            <BAND_RASTER_WIDTH>5530</BAND_RASTER_WIDTH>
+            <BAND_RASTER_HEIGHT>3500</BAND_RASTER_HEIGHT>
+            <DATA_TYPE>float32</DATA_TYPE>
+            <SOLAR_FLUX>0.0</SOLAR_FLUX>
+            <BAND_WAVELEN>0.0</BAND_WAVELEN>
+            <BAND_ANGULAR_VALUE>0.0</BAND_ANGULAR_VALUE>
+            <BANDWIDTH>0.0</BANDWIDTH>
+            <SCALING_FACTOR>1.0</SCALING_FACTOR>
+            <SCALING_OFFSET>0.0</SCALING_OFFSET>
+            <LOG10_SCALED>false</LOG10_SCALED>
+            <NO_DATA_VALUE_USED>true</NO_DATA_VALUE_USED>
+            <NO_DATA_VALUE>NaN</NO_DATA_VALUE>
+            <IMAGE_TO_MODEL_TRANSFORM>10.0,0.0,0.0,-10.0,327250.0,5862640.0</IMAGE_TO_MODEL_TRANSFORM>
+        </Spectral_Band_Info>
+        <Spectral_Band_Info>
+            <BAND_INDEX>47</BAND_INDEX>
+            <BAND_DESCRIPTION />
+            <BAND_NAME>ndwi</BAND_NAME>
             <BAND_RASTER_WIDTH>5530</BAND_RASTER_WIDTH>
             <BAND_RASTER_HEIGHT>3500</BAND_RASTER_HEIGHT>
             <DATA_TYPE>float32</DATA_TYPE>
