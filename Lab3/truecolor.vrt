@@ -19,6 +19,14 @@
     </SimpleSource>
   </VRTRasterBand>
   <VRTRasterBand dataType="UInt16" band="2">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+      <MDI key="STATISTICS_MINIMUM">647</MDI>
+      <MDI key="STATISTICS_MAXIMUM">9528</MDI>
+      <MDI key="STATISTICS_MEAN">1556.8001521473</MDI>
+      <MDI key="STATISTICS_STDDEV">292.4122518285</MDI>
+    </Metadata>
     <SimpleSource resampling="nearest">
       <SourceFilename relativeToVRT="1">S2A_MSIL2A_20260907T094121_N0512_R036_T33TYJ_20260907T161656.SAFE/GRANULE/L2A_T33TYJ_A058549_20260907T094435/IMG_DATA/R10m/T33TYJ_20260907T094121_B03_10m.jp2</SourceFilename>
       <SourceBand>1</SourceBand>
