@@ -1,0 +1,15 @@
+ENVI
+description = {Sentinel-1 IW Level-1 GRD Product - Unit: 1}
+samples = 5354
+lines = 2483
+bands = 1
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+byte order = 1
+band names = { DPMI }
+map info = {Arbitrary,2678.5,1243.0,13.08111415501406,52.408577010607715,8.983152841195167E-5,8.983152841195167E-5,WGS84,units=Meters}
+coordinate system string = {GEOGCS["WGS84(DD)", DATUM["WGS84", SPHEROID["WGS84", 6378137.0, 298.257223563]], PRIMEM["Greenwich", 0.0], UNIT["degree", 0.017453292519943295], AXIS["Geodetic longitude", EAST], AXIS["Geodetic latitude", NORTH], AUTHORITY["EPSG","4326"]]}
+data gain values = {1.0}
+data offset values = {0.0}
