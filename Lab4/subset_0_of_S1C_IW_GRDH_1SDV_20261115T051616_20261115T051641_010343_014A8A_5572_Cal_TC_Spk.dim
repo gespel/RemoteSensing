@@ -26,92 +26,6 @@
         </WKT>
     </Coordinate_Reference_System>
     <Geoposition>
-        <BAND_INDEX>0</BAND_INDEX>
-        <IMAGE_TO_MODEL_TRANSFORM>8.983152841195215E-5,0.0,0.0,-8.983152841195215E-5,12.840590237691059,52.520147768895356</IMAGE_TO_MODEL_TRANSFORM>
-    </Geoposition>
-    <Coordinate_Reference_System>
-        <WKT>
-             GEOGCS["WGS 84", 
-               DATUM["WGS_1984", 
-                 SPHEROID["WGS 84", 6378137.0, 298.257223563, AUTHORITY["EPSG","7030"]], 
-                 AUTHORITY["EPSG","6326"]], 
-               PRIMEM["Greenwich", 0.0, AUTHORITY["EPSG","8901"]], 
-               UNIT["degree", 0.017453292519943295], 
-               AXIS["Longitude", EAST], 
-               AXIS["Latitude", NORTH], 
-               AUTHORITY["EPSG","4326"]]
-        </WKT>
-    </Coordinate_Reference_System>
-    <Geoposition>
-        <BAND_INDEX>1</BAND_INDEX>
-        <IMAGE_TO_MODEL_TRANSFORM>8.983152841195215E-5,0.0,0.0,-8.983152841195215E-5,12.840590237691059,52.520147768895356</IMAGE_TO_MODEL_TRANSFORM>
-    </Geoposition>
-    <Coordinate_Reference_System>
-        <WKT>
-             GEOGCS["WGS 84", 
-               DATUM["WGS_1984", 
-                 SPHEROID["WGS 84", 6378137.0, 298.257223563, AUTHORITY["EPSG","7030"]], 
-                 AUTHORITY["EPSG","6326"]], 
-               PRIMEM["Greenwich", 0.0, AUTHORITY["EPSG","8901"]], 
-               UNIT["degree", 0.017453292519943295], 
-               AXIS["Longitude", EAST], 
-               AXIS["Latitude", NORTH], 
-               AUTHORITY["EPSG","4326"]]
-        </WKT>
-    </Coordinate_Reference_System>
-    <Geoposition>
-        <BAND_INDEX>2</BAND_INDEX>
-        <IMAGE_TO_MODEL_TRANSFORM>8.983152841195215E-5,0.0,0.0,-8.983152841195215E-5,12.840590237691059,52.520147768895356</IMAGE_TO_MODEL_TRANSFORM>
-    </Geoposition>
-    <Coordinate_Reference_System>
-        <WKT>
-             GEOGCS["WGS 84", 
-               DATUM["WGS_1984", 
-                 SPHEROID["WGS 84", 6378137.0, 298.257223563, AUTHORITY["EPSG","7030"]], 
-                 AUTHORITY["EPSG","6326"]], 
-               PRIMEM["Greenwich", 0.0, AUTHORITY["EPSG","8901"]], 
-               UNIT["degree", 0.017453292519943295], 
-               AXIS["Longitude", EAST], 
-               AXIS["Latitude", NORTH], 
-               AUTHORITY["EPSG","4326"]]
-        </WKT>
-    </Coordinate_Reference_System>
-    <Geoposition>
-        <BAND_INDEX>3</BAND_INDEX>
-        <IMAGE_TO_MODEL_TRANSFORM>8.983152841195215E-5,0.0,0.0,-8.983152841195215E-5,12.840590237691059,52.520147768895356</IMAGE_TO_MODEL_TRANSFORM>
-    </Geoposition>
-    <Coordinate_Reference_System>
-        <WKT>
-             GEOGCS["WGS 84", 
-               DATUM["WGS_1984", 
-                 SPHEROID["WGS 84", 6378137.0, 298.257223563, AUTHORITY["EPSG","7030"]], 
-                 AUTHORITY["EPSG","6326"]], 
-               PRIMEM["Greenwich", 0.0, AUTHORITY["EPSG","8901"]], 
-               UNIT["degree", 0.017453292519943295], 
-               AXIS["Longitude", EAST], 
-               AXIS["Latitude", NORTH], 
-               AUTHORITY["EPSG","4326"]]
-        </WKT>
-    </Coordinate_Reference_System>
-    <Geoposition>
-        <BAND_INDEX>4</BAND_INDEX>
-        <IMAGE_TO_MODEL_TRANSFORM>8.983152841195215E-5,0.0,0.0,-8.983152841195215E-5,12.840590237691059,52.520147768895356</IMAGE_TO_MODEL_TRANSFORM>
-    </Geoposition>
-    <Coordinate_Reference_System>
-        <WKT>
-             GEOGCS["WGS 84", 
-               DATUM["WGS_1984", 
-                 SPHEROID["WGS 84", 6378137.0, 298.257223563, AUTHORITY["EPSG","7030"]], 
-                 AUTHORITY["EPSG","6326"]], 
-               PRIMEM["Greenwich", 0.0, AUTHORITY["EPSG","8901"]], 
-               UNIT["degree", 0.017453292519943295], 
-               AXIS["Longitude", EAST], 
-               AXIS["Latitude", NORTH], 
-               AUTHORITY["EPSG","4326"]]
-        </WKT>
-    </Coordinate_Reference_System>
-    <Geoposition>
-        <BAND_INDEX>5</BAND_INDEX>
         <IMAGE_TO_MODEL_TRANSFORM>8.983152841195215E-5,0.0,0.0,-8.983152841195215E-5,12.840590237691059,52.520147768895356</IMAGE_TO_MODEL_TRANSFORM>
     </Geoposition>
     <Raster_Dimensions>
@@ -168,6 +82,54 @@
             </Color_Palette_Point>
             <Color_Palette_Point>
                 <SAMPLE>0.30455532670021057</SAMPLE>
+                <COLOR red="255" green="255" blue="255" alpha="255" />
+            </Color_Palette_Point>
+            <NO_DATA_COLOR red="0" green="0" blue="0" alpha="0" />
+            <HISTOGRAM_MATCHING>None</HISTOGRAM_MATCHING>
+        </Band_Statistics>
+        <Band_Statistics>
+            <BAND_INDEX>1</BAND_INDEX>
+            <STX_MIN>0.0</STX_MIN>
+            <STX_MAX>146.92703247070312</STX_MAX>
+            <STX_MEAN>0.10074979787176207</STX_MEAN>
+            <STX_STD_DEV>0.965876220637791</STX_STD_DEV>
+            <STX_RES_LEVEL>4</STX_RES_LEVEL>
+            <HISTOGRAM>50419,1076,291,117,70,45,40,27,17,17,14,15,8,5,6,6,7,5,4,2,3,0,3,3,3,2,1,1,5,1,4,3,3,2,1,1,1,1,0,0,0,2,0,0,2,1,0,1,0,2,0,0,0,1,0,0,0,3,0,1,1,1,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1</HISTOGRAM>
+            <NUM_COLORS>256</NUM_COLORS>
+            <Color_Palette_Point>
+                <SAMPLE>0.0</SAMPLE>
+                <COLOR red="0" green="0" blue="0" alpha="255" />
+            </Color_Palette_Point>
+            <Color_Palette_Point>
+                <SAMPLE>0.28696686029434204</SAMPLE>
+                <COLOR red="128" green="128" blue="128" alpha="255" />
+            </Color_Palette_Point>
+            <Color_Palette_Point>
+                <SAMPLE>0.5739337205886841</SAMPLE>
+                <COLOR red="255" green="255" blue="255" alpha="255" />
+            </Color_Palette_Point>
+            <NO_DATA_COLOR red="0" green="0" blue="0" alpha="0" />
+            <HISTOGRAM_MATCHING>None</HISTOGRAM_MATCHING>
+        </Band_Statistics>
+        <Band_Statistics>
+            <BAND_INDEX>2</BAND_INDEX>
+            <STX_MIN>0.0</STX_MIN>
+            <STX_MAX>1.0</STX_MAX>
+            <STX_MEAN>0.072168925696355</STX_MEAN>
+            <STX_STD_DEV>0.25877073655481264</STX_STD_DEV>
+            <STX_RES_LEVEL>4</STX_RES_LEVEL>
+            <HISTOGRAM>36075,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2806</HISTOGRAM>
+            <NUM_COLORS>256</NUM_COLORS>
+            <Color_Palette_Point>
+                <SAMPLE>0.99609375</SAMPLE>
+                <COLOR red="0" green="0" blue="0" alpha="255" />
+            </Color_Palette_Point>
+            <Color_Palette_Point>
+                <SAMPLE>0.998046875</SAMPLE>
+                <COLOR red="128" green="128" blue="128" alpha="255" />
+            </Color_Palette_Point>
+            <Color_Palette_Point>
+                <SAMPLE>1.0</SAMPLE>
                 <COLOR red="255" green="255" blue="255" alpha="255" />
             </Color_Palette_Point>
             <NO_DATA_COLOR red="0" green="0" blue="0" alpha="0" />
